@@ -1,0 +1,7 @@
+title: Curio
+description: Privacy policy and support information for Curio
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
